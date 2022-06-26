@@ -33,3 +33,4 @@ X-lab 参与度与贡献度的游戏化运营：https://github.com/orgs/X-lab201
 - 2021 年课程材料：https://shimo.im/docs/gRDjUWGiayUuNLgT
 - 2021 年课件：https://xlab2017.yuque.com/g/msdpvs/gf8ew6/folder/25969567
 - https://www.konrad.com/research/how-to-run-a-design-thinking-workshop
+- 2022 年课程规划：https://xlab2017.yuque.com/msdpvs/me6vqg/slou67
