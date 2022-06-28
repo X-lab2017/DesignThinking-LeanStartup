@@ -26,7 +26,8 @@ Running design thinking & lean
 
 X-lab 参与度与贡献度的游戏化运营：https://github.com/orgs/X-lab2017/discussions/49
 
-
+教材：
+- Michael Lewrick, Nadia Langensand，设计思维手册：斯坦福创新方法论, 机械工业出版社, 2020. 链接
 
 ## 参考资料：
 - 2020 年课程材料：https://shimo.im/docs/tGQTyj6w6KXPQhdV
